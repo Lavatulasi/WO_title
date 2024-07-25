@@ -1,0 +1,19 @@
+{
+    "num": 1,
+    "designs": [
+        {
+            "id": "-",
+            "title": "",
+            "source": "Unknown",
+            "family": "Agilex 7",
+            "quartus_version": "24.3.0 Pro Edition",
+            "devkit": "Intel Agilex® 7 FPGA F-Series Development Kit",
+            "device_part": "AGFB014R24B2E2V",
+            "description": "This example design targeted on the Agilex-7 device is able to demonstrate a\nhello world.",
+            "rich_description": "<p>The following example design targeted on the Agilex-7 device enables Full ECC support for Nios® V/g core.\n- The memory depth of OCM 409600\n- With the default configuration and software sources, the application is\nable to demonstrate a hello world.</p>",
+            "category": "Unknown",
+            "url": "-",
+            "downloadUrl": "wo_title.zip"
+        }
+    ]
+}
